@@ -1,2 +1,2 @@
-# This is a reproductioln project of Course CS4240 from TU Delft. In this project we implement the method introduced by the paper Multi-source Domain Adaptation via Weighted Joint
+This is a reproductioln project of Course CS4240 from TU Delft. In this project we implement the method introduced by the paper Multi-source Domain Adaptation via Weighted Joint
 Distributions Optimal Transport (https://arxiv.org/pdf/2006.12938.pdf). The dataset we used is available at github.com/jindongwang/transferlearning/blob/master/data/dataset.md. A blog which gives a description of our project is in Reproducibility_project_Group_116.ipynb, our source code is in Reproducibility_project_source_code_Group_116.ipynb
